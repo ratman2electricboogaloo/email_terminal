@@ -1,12 +1,12 @@
 {
     "serverAddress": "localhost",
-    "serverName": "Node Y56 Intranet",
+    "serverName": "LSTR LGC MDL",
     "iconName": "Moon-icon.png",
-    "terminalID": "Y56",
+    "terminalID": "512",
     "defaultUser": {
-        "userId": "user",
+        "userId": "LSTR",
         "password": "",
-        "userName": "anonymous"
+        "userName": "LSTR-512"
     },
     "initialHistory": {
         "user": [
